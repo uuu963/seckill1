@@ -1,0 +1,17 @@
+{
+  "dbms":{
+    "postgres":{
+      "host":"localhost",
+      "port":"5432",
+      "db":"secKilldb",
+      "user":"secKillUser",
+      "password":"cst4Ever"
+    }
+
+  },
+  "appServer":{
+    "host":"localhost",
+    "port":"6167"
+  }
+
+}
